@@ -1,0 +1,14 @@
+{
+  "name": "chatter.js",
+  "version": "1.0.0",
+  "description": "Chat application built with stencil.js and react.js",
+  "main": "index.js",
+  "repository": "https://github.com/pronayguha13/chatter.js.git",
+  "author": "Pronay Guha <pronayguha13@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "web-components",
+    "application"
+  ]
+}
